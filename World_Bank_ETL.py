@@ -5,6 +5,8 @@ from bs4 import BeautifulSoup
 import  sqlite3
 import datetime as datetime
 
+
+
 # URL of the Wikipedia page containing the data
 
 url = 'https://web.archive.org/web/20230908091635 /https://en.wikipedia.org/wiki/List_of_largest_banks'
